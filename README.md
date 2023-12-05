@@ -1,0 +1,1 @@
+# devops-cicd-oidc-git-aws-auth
