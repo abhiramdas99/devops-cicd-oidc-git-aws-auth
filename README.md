@@ -15,7 +15,8 @@ To address this problem, we are utilizing the OIDC feature.
   provider type : OpenId connect
   Provider url : "https://token.actions.githubusercontent.com"   and click on [Get thumbprint]
   Audience : "sts.amazonaws.com" and click [create]
-```
+`````
+
 - create a role
 ```git
 Trusted entity type:
